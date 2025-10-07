@@ -701,14 +701,6 @@ leadership:
 
 <br/>
 
-<!-- Language Stats -->
-<p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-AIstacker&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sai_AIstacker&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF&layout=compact" />
-</p>
-
-<br/>
-
 <!-- 3D Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-AIstacker&custom_title=%E2%96%B2%20Exploration%20Journey%20%7C%20Every%20Day%20Counts%20%E2%96%B2&bg_color=0d1117&color=00F5FF&line=FF006E&point=FFBE0B&area=true&hide_border=true&area_color=7209B7&title_color=00F5FF" width="98%" />
 
