@@ -1,28 +1,25 @@
 <div align="center">
 
 <!-- Ultra Dynamic 3D Header with Holographic Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=SAI%20SARTHAK%20SADANGI&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20EXPLORER%20%E2%80%A2%20ML%20VISIONARY%20%E2%80%A2%20FUTURE%20ARCHITECT&descSize=25&descAlignY=55&descAlign=50&stroke=6C63FF&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=SAI%20SARTHAK%20SADANGI&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20EXPLORER%20%E2%80%A2%20ML%20VISIONARY%20%E2%80%A2%20DATA%20ENGINEER%20%E2%80%A2%20FUTURE%20ARCHITECT&descSize=25&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Neon Glow Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=200&lines=⚡+EXPLORING+THE+FUTURE+OF+AI+⚡;▶+DIGITAL+INNOVATOR+%7C+CODE+ARCHITECT+◀;►+TRANSFORMING+IMAGINATION+INTO+REALITY+◄;◆+DEEP+LEARNING+%E2%80%A2+MLOPS+%E2%80%A2+GENAI+◆" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=200&lines=%E2%9A%A1+EXPLORING+THE+FUTURE+OF+AI+%E2%9A%A1;%E2%96%B6+AI+ENGINEER+%7C+ML+ARCHITECT+%7C+DATA+ENGINEER+%E2%97%80;%E2%96%BA+TRANSFORMING+DATA+INTO+INTELLIGENCE+%E2%97%84;%E2%97%86+DEEP+LEARNING+%E2%80%A2+MLOPS+%E2%80%A2+DATA+PIPELINES+%E2%97%86" alt="Typing SVG" /></a>
 
 <!-- Holographic Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- 3D Rotating Badges -->
-<img src="https://custom-icon-badges.demolab.com/badge/-AI%20Explorer-FF006E?style=for-the-badge&logo=telescope&logoColor=white&labelColor=8338EC&logoWidth=25" height="45"/>
-<img src="https://custom-icon-badges.demolab.com/badge/-Tech%20Visionary-00F5FF?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=3A0CA3&logoWidth=25" height="45"/>
-<img src="https://custom-icon-badges.demolab.com/badge/-Innovation%20Catalyst-FFBE0B?style=for-the-badge&logo=rocket-launch&logoColor=white&labelColor=FB5607&logoWidth=25" height="45"/>
-<img src="https://custom-icon-badges.demolab.com/badge/-Code%20Alchemist-7209B7?style=for-the-badge&logo=magic-wand&logoColor=white&labelColor=560BAD&logoWidth=25" height="45"/>
+<p>
+<img src="https://img.shields.io/badge/AI_Explorer-FF006E?style=for-the-badge&logo=telescope&logoColor=white" height="45"/>
+<img src="https://img.shields.io/badge/ML_Architect-00F5FF?style=for-the-badge&logo=sparkles&logoColor=white" height="45"/>
+<img src="https://img.shields.io/badge/Data_Engineer-FFBE0B?style=for-the-badge&logo=database&logoColor=white" height="45"/>
+<img src="https://img.shields.io/badge/Code_Alchemist-7209B7?style=for-the-badge&logo=code&logoColor=white" height="45"/>
+</p>
 
 </div>
 
 <br/>
-
-<!-- Particle Effect Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=100&pause=999999&color=00FF41&center=true&vCenter=true&repeat=false&width=1400&lines=01000101+01011000+01010000+01001100+01001111+01010010+01001001+01001110+01000111+00100000+01010100+01001000+01000101+00100000+01001001+01001110+01000110+01001001+01001110+01001001+01010100+01000101+00100000+01010000+01001111+01010011+01010011+01001001+01000010+01001001+01001100+01001001+01010100+01001001+01000101+01010011" alt="Matrix Code" />
-</p>
 
 <!-- Neon Glow Effect Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
@@ -33,20 +30,24 @@
 <div align="center">
 
 <!-- First Row of Animated Badges -->
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-Artificial%20Intelligence-00F5FF?style=for-the-badge&logo=cpu-chip&logoColor=0a0a0a&labelColor=00F5FF&logoWidth=20" height="38"/></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-Machine%20Learning-FF006E?style=for-the-badge&logo=graph-up&logoColor=white&labelColor=D00000&logoWidth=20" height="38"/></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-Deep%20Learning-7209B7?style=for-the-badge&logo=layers&logoColor=white&labelColor=560BAD&logoWidth=20" height="38"/></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-Neural%20Networks-FFBE0B?style=for-the-badge&logo=git-network&logoColor=0a0a0a&labelColor=FB5607&logoWidth=20" height="38"/></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-Computer%20Vision-06FFA5?style=for-the-badge&logo=eye&logoColor=0a0a0a&labelColor=00B4D8&logoWidth=20" height="38"/></a>
+<p>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-00F5FF?style=for-the-badge&logo=brain&logoColor=0a0a0a" height="38"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF006E?style=for-the-badge&logo=tensorflow&logoColor=white" height="38"/>
+<img src="https://img.shields.io/badge/Deep_Learning-7209B7?style=for-the-badge&logo=python&logoColor=white" height="38"/>
+<img src="https://img.shields.io/badge/Neural_Networks-FFBE0B?style=for-the-badge&logo=neuralnetwork&logoColor=0a0a0a" height="38"/>
+<img src="https://img.shields.io/badge/Computer_Vision-06FFA5?style=for-the-badge&logo=opencv&logoColor=0a0a0a" height="38"/>
+</p>
 
 <br/>
 
 <!-- Second Row of Animated Badges -->
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-Python%20Wizard-FFD60A?style=for-the-badge&logo=python&logoColor=306998&labelColor=FFC300&logoWidth=20" height="38"/></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-Data%20Architect-F72585?style=for-the-badge&logo=database&logoColor=white&labelColor=B5179E&logoWidth=20" height="38"/></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-Cloud%20Engineer-4CC9F0?style=for-the-badge&logo=cloud&logoColor=0a0a0a&labelColor=4361EE&logoWidth=20" height="38"/></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-GenAI%20Pioneer-C77DFF?style=for-the-badge&logo=stars&logoColor=white&labelColor=9D4EDD&logoWidth=20" height="38"/></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-MLOps%20Expert-06FFA5?style=for-the-badge&logo=container&logoColor=0a0a0a&labelColor=2A9D8F&logoWidth=20" height="38"/></a>
+<p>
+<img src="https://img.shields.io/badge/Python_Wizard-FFD60A?style=for-the-badge&logo=python&logoColor=306998" height="38"/>
+<img src="https://img.shields.io/badge/Data_Engineer-F72585?style=for-the-badge&logo=database&logoColor=white" height="38"/>
+<img src="https://img.shields.io/badge/ML_Architect-4CC9F0?style=for-the-badge&logo=tensorflow&logoColor=0a0a0a" height="38"/>
+<img src="https://img.shields.io/badge/GenAI_Pioneer-C77DFF?style=for-the-badge&logo=openai&logoColor=white" height="38"/>
+<img src="https://img.shields.io/badge/MLOps_Expert-06FFA5?style=for-the-badge&logo=docker&logoColor=0a0a0a" height="38"/>
+</p>
 
 </div>
 
@@ -64,46 +65,46 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2000&pause=1000&color=00F5FF&center=false&vCenter=true&width=500&lines=▶+EXPLORER+PROFILE" alt="Profile Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2000&pause=1000&color=00F5FF&center=false&vCenter=true&width=500&lines=%E2%96%B6+EXPLORER+PROFILE" alt="Profile Header" />
 
 ```typescript
 interface AIExplorer {
   readonly identity: {
     name: "Sai Sarthak Sadangi";
-    role: ["AI Explorer", "ML Architect"];
+    role: ["AI Explorer", "ML Architect", "Data Engineer"];
     status: "⟡ Discovering Possibilities";
     realm: "Bhubaneswar, IN 🇮🇳";
   };
   
   journey: {
     current: "Building Foundation" | "Exploring AI";
-    destination: ["AI Engineer", "Tech Leader"];
+    destination: ["AI/ML Engineer", "Data Engineer", "Tech Leader"];
     mindset: "∞ Growth Mindset ∞";
   };
   
   exploration: {
-    domains: ["AI/ML", "Deep Learning", "GenAI"];
-    tools: ["Python", "TensorFlow", "PyTorch"];
-    passion: "Creating Intelligent Systems ►";
+    domains: ["AI/ML", "Deep Learning", "Data Engineering", "GenAI"];
+    tools: ["Python", "TensorFlow", "PyTorch", "Spark", "Airflow"];
+    passion: "Creating Intelligent Data Systems ►";
   };
 }
 
 const explorer: AIExplorer = {
   identity: {
     name: "Sai Sarthak Sadangi",
-    role: ["AI Explorer", "ML Architect"],
+    role: ["AI Explorer", "ML Architect", "Data Engineer"],
     status: "⟡ Discovering Possibilities",
     realm: "Bhubaneswar, IN 🇮🇳"
   },
   journey: {
     current: "Exploring AI",
-    destination: ["AI Engineer", "Tech Leader"],
+    destination: ["AI/ML Engineer", "Data Engineer", "Tech Leader"],
     mindset: "∞ Growth Mindset ∞"
   },
   exploration: {
-    domains: ["AI/ML", "Deep Learning", "GenAI"],
-    tools: ["Python", "TensorFlow", "PyTorch"],
-    passion: "Creating Intelligent Systems ►"
+    domains: ["AI/ML", "Deep Learning", "Data Engineering", "GenAI"],
+    tools: ["Python", "TensorFlow", "PyTorch", "Spark", "Airflow"],
+    passion: "Creating Intelligent Data Systems ►"
   }
 };
 ```
@@ -111,7 +112,7 @@ const explorer: AIExplorer = {
 </td>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2000&pause=1000&color=FF006E&center=false&vCenter=true&width=500&lines=⚡+REAL-TIME+METRICS" alt="Metrics Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2000&pause=1000&color=FF006E&center=false&vCenter=true&width=500&lines=%E2%9A%A1+REAL-TIME+METRICS" alt="Metrics Header" />
 
 ```python
 class ExplorerMetrics:
@@ -158,7 +159,7 @@ print(metrics.daily_stats)
 <!-- Epic Profile Architecture Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=FFBE0B&center=true&vCenter=true&width=1000&height=100&lines=►+EXPLORATION+ARCHITECTURE+◄" alt="Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=FFBE0B&center=true&vCenter=true&width=1000&height=100&lines=%E2%96%BA+EXPLORATION+ARCHITECTURE+%E2%97%84" alt="Architecture" />
 
 </div>
 
@@ -167,9 +168,9 @@ class SaiSarthakSadangi:
     """
     ╔═══════════════════════════════════════════════════════════════════════════╗
     ║                                                                           ║
-    ║   ◆ AI EXPLORER | ML VISIONARY | FUTURE TECH ARCHITECT ◆                 ║
+    ║   ◆ AI EXPLORER | ML ARCHITECT | DATA ENGINEER | TECH VISIONARY ◆        ║
     ║                                                                           ║
-    ║   "Not just learning AI - Exploring the infinite possibilities"          ║
+    ║   "Not just learning AI - Building the data infrastructure of tomorrow"  ║
     ║   "Today's exploration becomes tomorrow's innovation"                     ║
     ║                                                                           ║
     ╚═══════════════════════════════════════════════════════════════════════════╝
@@ -178,9 +179,9 @@ class SaiSarthakSadangi:
     def __init__(self):
         self.identity = {
             "name": "Sai Sarthak Sadangi",
-            "title": "AI Explorer & ML Architect-in-Training",
+            "title": "AI Explorer, ML Architect & Data Engineer in Training",
             "current_role": "Technology Explorer",
-            "future_vision": "AI/ML Engineer & Data Architect",
+            "future_vision": "AI/ML Engineer & Data Engineer",
             "location": "Bhubaneswar, India 🇮🇳",
             "timezone": "IST (UTC+5:30)",
             "philosophy": "⟡ Explore → ⚙ Build → ► Scale → ↻ Innovate"
@@ -263,11 +264,11 @@ class SaiSarthakSadangi:
             ],
             
             "2027_mastery": [
-                "◆ Become AI/ML Engineer at Top Tech Company",
-                "▣ Work on Large-Scale Production Systems",
-                "◇ Contribute to AI Research & Innovation",
-                "◎ Build AI Products that Impact Millions",
-                "⟡ Lead AI/ML Projects & Mentor Others",
+                "◆ Become AI/ML Engineer & Data Engineer at Top Tech Company",
+                "▣ Work on Large-Scale Production Data Systems",
+                "◇ Contribute to AI Research & Data Innovation",
+                "◎ Build AI & Data Products that Impact Millions",
+                "⟡ Lead AI/ML & Data Engineering Projects & Mentor Others",
                 "▲ Speaker at Tech Conferences & Meetups"
             ]
         }
@@ -364,17 +365,19 @@ print(explorer.get_philosophy())
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=100&lines=▶+TECHNOLOGY+UNIVERSE+◄" alt="Tech Universe" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=100&lines=%E2%96%B6+TECHNOLOGY+UNIVERSE+%E2%97%84" alt="Tech Universe" />
 
 <!-- Floating 3D Tech Icons -->
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="80" height="80" />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" />
+</p>
 
 <br/><br/>
 
@@ -383,10 +386,8 @@ print(explorer.get_philosophy())
 <summary><b>▲ AI/ML ARSENAL → Mastering the Future</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,sklearn&theme=dark&perline=6" />
-
-<br/><br/>
-
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
@@ -394,6 +395,9 @@ print(explorer.get_philosophy())
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 </details>
 
@@ -401,15 +405,17 @@ print(explorer.get_philosophy())
 <summary><b>◆ DATA ENGINEERING → Building Foundations</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,cassandra,sqlite&theme=dark&perline=7" />
-
-<br/><br/>
-
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
 
 </details>
 
@@ -417,16 +423,17 @@ print(explorer.get_philosophy())
 <summary><b>☁ CLOUD & DEVOPS → Scaling Systems</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=dark&perline=8" />
-
-<br/><br/>
-
+<p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+</p>
 
 </details>
 
@@ -434,15 +441,18 @@ print(explorer.get_philosophy())
 <summary><b>◎ WEB DEVELOPMENT → Full Stack Mastery</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,react,html,css,js,ts,tailwind&theme=dark&perline=10" />
-
-<br/><br/>
-
+<p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 </details>
 
@@ -450,15 +460,17 @@ print(explorer.get_philosophy())
 <summary><b>⚙ DEVELOPMENT TOOLS → Explorer's Toolkit</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,gitlab,linux,ubuntu,bash,vim,postman&theme=dark&perline=10" />
-
-<br/><br/>
-
+<p>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 </details>
 
@@ -469,23 +481,24 @@ print(explorer.get_philosophy())
 <!-- Holographic Progress Matrix -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2000&pause=1000&color=FF006E&center=true&vCenter=true&width=800&lines=⚡+EXPLORATION+PROGRESS+MATRIX+⚡" alt="Progress" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2000&pause=1000&color=FF006E&center=true&vCenter=true&width=800&lines=%E2%9A%A1+EXPLORATION+PROGRESS+MATRIX+%E2%9A%A1" alt="Progress" />
 
 <br/>
 
-| ▶ Domain | ⚙ Technology Focus | ◆ Progress Level | ◎ Target Mastery |
-|:------:|:-------------------|:-------------:|:-------------:|
-| **◇ Programming** | Python • DSA • OOP • Algorithms | ![](https://progress-bar.dev/75/?width=150&color=FFD60A&scale=100) | Expert |
-| **⚡ AI/ML Core** | Supervised • Unsupervised • Neural Nets | ![](https://progress-bar.dev/60/?width=150&color=00F5FF&scale=100) | Advanced |
-| **◇ Deep Learning** | CNNs • RNNs • Transformers • GANs | ![](https://progress-bar.dev/45/?width=150&color=FF006E&scale=100) | Proficient |
-| **◎ NLP** | BERT • GPT • Transformers • SpaCy | ![](https://progress-bar.dev/50/?width=150&color=7209B7&scale=100) | Advanced |
-| **◉ Computer Vision** | YOLO • OpenCV • Detection • Segmentation | ![](https://progress-bar.dev/55/?width=150&color=06FFA5&scale=100) | Proficient |
-| **◆ Data Science** | NumPy • Pandas • Visualization • Analysis | ![](https://progress-bar.dev/70/?width=150&color=FFBE0B&scale=100) | Advanced |
-| **◎ Web Dev** | Flask • FastAPI • React • REST APIs | ![](https://progress-bar.dev/55/?width=150&color=4CC9F0&scale=100) | Proficient |
-| **☁ Cloud (AWS)** | EC2 • S3 • Lambda • SageMaker | ![](https://progress-bar.dev/35/?width=150&color=9D4EDD&scale=100) | Intermediate |
-| **⚙ DevOps** | Docker • Kubernetes • CI/CD • Git | ![](https://progress-bar.dev/50/?width=150&color=F72585&scale=100) | Intermediate |
-| **◆ Mathematics** | Linear Algebra • Calculus • Statistics | ![](https://progress-bar.dev/65/?width=150&color=00B4D8&scale=100) | Advanced |
-| **◈ GenAI/LLMs** | GPT • LangChain • RAG • Fine-tuning | ![](https://progress-bar.dev/40/?width=150&color=C77DFF&scale=100) | Proficient |
+| ▶ Domain | ⚙ Technology Focus | ◎ Target Mastery |
+|:------:|:-------------------|:-------------:|
+| **◇ Programming** | Python • DSA • OOP • Algorithms | Expert |
+| **⚡ AI/ML Core** | Supervised • Unsupervised • Neural Nets | Advanced |
+| **◇ Deep Learning** | CNNs • RNNs • Transformers • GANs | Proficient |
+| **◎ NLP** | BERT • GPT • Transformers • SpaCy | Advanced |
+| **◉ Computer Vision** | YOLO • OpenCV • Detection • Segmentation | Proficient |
+| **◆ Data Engineering** | ETL • Pipelines • Spark • Airflow • Kafka | Advanced |
+| **◎ Data Science** | NumPy • Pandas • Visualization • Analysis | Advanced |
+| **◎ Web Dev** | Flask • FastAPI • React • REST APIs | Proficient |
+| **☁ Cloud (AWS)** | EC2 • S3 • Lambda • SageMaker • Redshift | Intermediate |
+| **⚙ DevOps** | Docker • Kubernetes • CI/CD • Git | Intermediate |
+| **◆ Mathematics** | Linear Algebra • Calculus • Statistics | Advanced |
+| **◈ GenAI/LLMs** | GPT • LangChain • RAG • Fine-tuning | Proficient |
 
 </div>
 
@@ -498,7 +511,7 @@ print(explorer.get_philosophy())
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=7209B7&center=true&vCenter=true&width=1000&height=100&lines=◆+EXPLORATION+ROADMAP+◆" alt="Roadmap" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=7209B7&center=true&vCenter=true&width=1000&height=100&lines=%E2%97%86+EXPLORATION+ROADMAP+%E2%97%86" alt="Roadmap" />
 
 </div>
 
@@ -627,6 +640,7 @@ mission: "Lead & Innovate"
 professional:
   role:
     - Senior ML Engineer
+    - Data Engineer
     - AI Architect
     - Technical Lead
     - Innovation Catalyst
@@ -677,21 +691,31 @@ leadership:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=06FFA5&center=true&vCenter=true&width=1200&height=100&lines=◆+PERFORMANCE+ANALYTICS+DASHBOARD+◆" alt="Dashboard" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=06FFA5&center=true&vCenter=true&width=1200&height=100&lines=%E2%97%86+PERFORMANCE+ANALYTICS+DASHBOARD+%E2%97%86" alt="Dashboard" />
 
 <!-- Epic Stats with Gradient -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sai-AIstacker&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117,1a1a2e,16213e,0f3460&title_color=00F5FF&icon_color=FF006E&text_color=FFFFFF&ring_color=7209B7&fire_color=FFBE0B&count_private=true&include_all_commits=true&rank_icon=percentile&border_radius=15" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-AIstacker&theme=radical&hide_border=true&background=0d1117&stroke=00F5FF&ring=FF006E&fire=FFBE0B&currStreakLabel=00F5FF&sideLabels=7209B7&dates=FFFFFF&border_radius=15" />
+<p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sai-AIstacker&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF006E&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=percentile" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-AIstacker&theme=radical&hide_border=true&background=0d1117&stroke=00F5FF&ring=FF006E&fire=FFBE0B&currStreakLabel=00F5FF&sideLabels=7209B7&dates=FFFFFF" />
+</p>
 
-<br/><br/>
+<br/>
+
+<!-- Language Stats -->
+<p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-AIstacker&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sai_AIstacker&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF&layout=compact" />
+</p>
+
+<br/>
 
 <!-- 3D Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-AIstacker&custom_title=▲%20Exploration%20Journey%20%7C%20Every%20Day%20Counts%20▲&bg_color=0d1117&color=00F5FF&line=FF006E&point=FFBE0B&area=true&hide_border=true&area_color=7209B7&title_color=00F5FF" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-AIstacker&custom_title=%E2%96%B2%20Exploration%20Journey%20%7C%20Every%20Day%20Counts%20%E2%96%B2&bg_color=0d1117&color=00F5FF&line=FF006E&point=FFBE0B&area=true&hide_border=true&area_color=7209B7&title_color=00F5FF" width="98%" />
 
 <br/>
 
 <!-- Epic Trophy Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=sai-AIstacker&theme=radical&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Issues,Followers,Stars&rank=SECRET,SSS,SS,S,AAA,AA,A" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=sai-AIstacker&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Issues,Followers" width="98%" />
 
 </div>
 
@@ -704,7 +728,7 @@ leadership:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=1000&height=100&lines=◎+CONNECT+%26+COLLABORATE+◎" alt="Connect" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=1000&height=100&lines=%E2%97%8E+CONNECT+%26+COLLABORATE+%E2%97%8E" alt="Connect" />
 
 <br/>
 
@@ -713,38 +737,44 @@ leadership:
 <br/><br/>
 
 <!-- 3D Social Buttons -->
+<p>
 <a href="https://www.linkedin.com/in/sai-sarthak-sadangi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=30" height="50" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:saiaistacker@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&logoWidth=30" height="50" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/sai-AIstacker">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&logoWidth=30" height="50" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="50" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF006E&logoWidth=30" height="50" />
+  <img src="https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=google-chrome&logoColor=white" height="50" />
 </a>
+</p>
 
 <br/><br/>
 
 <!-- Animated Counter Badges -->
-<img src="https://komarev.com/ghpvc/?username=sai-AIstacker&style=for-the-badge&color=00F5FF&label=EXPLORERS+VISITED&logo=eye&logoColor=white" height="40" />
-<img src="https://img.shields.io/github/stars/sai-AIstacker?style=for-the-badge&logo=github&color=FFBE0B&labelColor=1a1a2e&label=STARS+EARNED&logoColor=white" height="40" />
-<img src="https://img.shields.io/github/followers/sai-AIstacker?style=for-the-badge&logo=github&color=FF006E&labelColor=1a1a2e&label=FOLLOWERS&logoColor=white" height="40" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=sai-AIstacker&style=for-the-badge&color=00F5FF&label=EXPLORERS+VISITED" height="40" />
+<img src="https://img.shields.io/github/stars/sai-AIstacker?style=for-the-badge&logo=github&color=FFBE0B&labelColor=1a1a2e&label=STARS+EARNED" height="40" />
+<img src="https://img.shields.io/github/followers/sai-AIstacker?style=for-the-badge&logo=github&color=FF006E&labelColor=1a1a2e&label=FOLLOWERS" height="40" />
+</p>
 
 <br/><br/>
 
 <!-- Inspirational Quote Card -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20biggest%20risk%20is%20not%20taking%20any%20risk.%20In%20a%20world%20changing%20quickly,%20the%20only%20strategy%20guaranteed%20to%20fail%20is%20not%20taking%20risks&author=Mark%20Zuckerberg&border=true&animation=grow_out_in&quoteCategory=programming" width="800" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="800" />
 
 <br/>
 
 <!-- Status Badges Row -->
-<img src="https://img.shields.io/badge/Status-▲%20Actively%20Exploring-00F5FF?style=for-the-badge" height="35" />
+<p>
+<img src="https://img.shields.io/badge/Status-%E2%96%B2%20Actively%20Exploring-00F5FF?style=for-the-badge" height="35" />
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML%20Universe-FF006E?style=for-the-badge" height="35" />
-<img src="https://img.shields.io/badge/Mindset-∞%20Growth-7209B7?style=for-the-badge" height="35" />
+<img src="https://img.shields.io/badge/Mindset-%E2%88%9E%20Growth-7209B7?style=for-the-badge" height="35" />
 <img src="https://img.shields.io/badge/Available-Open%20to%20Collaborate-FFBE0B?style=for-the-badge" height="35" />
+</p>
 
 </div>
 
@@ -767,11 +797,11 @@ leadership:
 <!-- Final Epic Footer -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=◆+EXPLORER+PHILOSOPHY+◆" alt="Philosophy" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=%E2%97%86+EXPLORER+PHILOSOPHY+%E2%97%86" alt="Philosophy" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FF006E&center=true&vCenter=true&multiline=true&width=900&height=150&lines=⟡+EXPLORE+the+Infinite+Possibilities;►+BUILD+with+Purpose+and+Passion;⚡+SCALE+with+Vision+and+Precision;↻+INNOVATE+without+Boundaries;◎+IMPACT+the+World+Positively" alt="Values" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FF006E&center=true&vCenter=true&multiline=true&width=900&height=150&lines=%E2%9F%A1+EXPLORE+the+Infinite+Possibilities;%E2%96%BA+BUILD+with+Purpose+and+Passion;%E2%9A%A1+SCALE+with+Vision+and+Precision;%E2%86%BB+INNOVATE+without+Boundaries;%E2%97%8E+IMPACT+the+World+Positively" alt="Values" />
 
 <br/>
 
@@ -780,7 +810,7 @@ leadership:
 <br/>
 
 <!-- Epic Gradient Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&pause=1000&color=7209B7&center=true&vCenter=true&width=800&lines=◈+From+Explorer+to+Architect;◎+From+Dreams+to+Reality;▲+From+Code+to+Innovation" alt="Journey" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&pause=1000&color=7209B7&center=true&vCenter=true&width=800&lines=%E2%97%88+From+Explorer+to+Architect;%E2%97%8E+From+Dreams+to+Reality;%E2%96%B2+From+Code+to+Innovation" alt="Journey" />
 
 <br/>
 
@@ -791,15 +821,17 @@ leadership:
 <br/><br/>
 
 <!-- Final Badge Row -->
-<img src="https://img.shields.io/badge/Made%20with-◆%20Passion-FF006E?style=for-the-badge&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/Powered%20by-◇%20AI-00F5FF?style=for-the-badge&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/Built%20with-◇%20Python-FFD60A?style=for-the-badge&logo=python&logoColor=306998" height="35" />
-<img src="https://img.shields.io/badge/Fueled%20by-☕%20Coffee-FFBE0B?style=for-the-badge&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/Driven%20by-►%20Innovation-7209B7?style=for-the-badge&logoColor=white" height="35" />
+<p>
+<img src="https://img.shields.io/badge/Made%20with-%E2%97%86%20Passion-FF006E?style=for-the-badge" height="35" />
+<img src="https://img.shields.io/badge/Powered%20by-%E2%97%87%20AI-00F5FF?style=for-the-badge" height="35" />
+<img src="https://img.shields.io/badge/Built%20with-%E2%97%87%20Python-FFD60A?style=for-the-badge&logo=python" height="35" />
+<img src="https://img.shields.io/badge/Fueled%20by-%E2%98%95%20Coffee-FFBE0B?style=for-the-badge" height="35" />
+<img src="https://img.shields.io/badge/Driven%20by-%E2%96%BA%20Innovation-7209B7?style=for-the-badge" height="35" />
+</p>
 
 <br/><br/>
 
 <!-- Holographic Closing Banner -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer&text=⟡%20KEEP%20EXPLORING%20•%20KEEP%20BUILDING%20•%20KEEP%20INNOVATING%20⟡&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
 
 </div>
