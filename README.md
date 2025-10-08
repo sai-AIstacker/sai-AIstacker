@@ -3,15 +3,8 @@
 <!-- Ultra Dynamic 3D Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=SAI%20SARTHAK%20SADANGI&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20EXPLORER%20%E2%80%A2%20ML%20VISIONARY%20%E2%80%A2%20DATA%20ENGINEER%20%E2%80%A2%20FUTURE%20ARCHITECT&descSize=25&descAlignY=55&descAlign=50" width="100%"/>
 
-<!-- Dynamic Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=200&lines=%E2%9A%A1+EXPLORING+THE+FUTURE+OF+AI+%E2%9A%A1;%E2%96%B6+AI+ENGINEER+%7C+ML+ARCHITECT+%7C+DATA+ENGINEER+%E2%97%80;%E2%96%BA+TRANSFORMING+DATA+INTO+INTELLIGENCE+%E2%97%84;%E2%97%86+DEEP+LEARNING+%E2%80%A2+MLOPS+%E2%80%A2+DATA+PIPELINES+%E2%97%86" alt="Typing SVG" /></a>
-
-<!-- Premium Holographic Divider -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<!-- Dynamic Typing Animation with Better Spacing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=240&lines=%E2%9A%A1+EXPLORING+THE+FUTURE+OF+AI+%E2%9A%A1;%E2%96%B6+AI+ENGINEER+%7C+ML+ARCHITECT+%7C+DATA+ENGINEER+%E2%97%80;%E2%96%BA+TRANSFORMING+DATA+INTO+INTELLIGENCE+%E2%97%84;%E2%97%86+DEEP+LEARNING+%E2%80%A2+MLOPS+%E2%80%A2+PIPELINES+%E2%97%86" alt="Typing SVG" /></a>
 
 <!-- Identity Badges -->
 <p>
@@ -25,19 +18,33 @@
 
 <br/>
 
-<!-- Premium Border Start -->
+<!-- Premium Border -->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<!-- Hero Visual -->
+<!-- Hero Visual Section -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Development">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding">
+</div>
+
+<br/>
+
+<!-- Coding Animation Strip -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
 <!-- Luxury Separator -->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 <br/>
@@ -51,14 +58,14 @@
 
 <!-- Premium Content Border -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 </p>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-<img align="right" alt="Visual" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding Visual" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br/>
 
@@ -96,7 +103,7 @@ Explore → Build → Scale → Innovate
 
 **Programming Universe**  
 ◆ Python ◆ Data Structures ◆ Algorithms  
-◈ RUST ◈ JAVA ◈ JavaScript ◈ Golang
+◈ RUST ◈ Java ◈ JavaScript ◈ Golang
 
 **AI & Machine Learning**  
 ▶ Machine Learning Algorithms  
@@ -122,6 +129,13 @@ Explore → Build → Scale → Innovate
 
 <br/>
 
+<!-- Developer Working GIF -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="Developer">
+</div>
+
+<br/>
+
 <!-- Diamond Luxury Divider -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -136,12 +150,30 @@ Explore → Build → Scale → Innovate
 
 <!-- Gold Border -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
 <br/>
 
-<!-- Animated Tech Icons Grid -->
+<!-- Moving and Bouncing Tech Icons -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50" />
+</p>
+
+<br/>
+
+<!-- Animated Tech Icons Grid with Labels -->
 <table align="center">
 <tr>
 <td align="center" width="96">
@@ -283,6 +315,20 @@ Explore → Build → Scale → Innovate
 
 <br/>
 
+<!-- Additional Animated Icons -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70" />
+</p>
+
+<br/>
+
 <!-- Crystal Border -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -374,6 +420,13 @@ Explore → Build → Scale → Innovate
 
 <br/>
 
+<!-- Developer Workspace GIF -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="500" alt="Workspace">
+</div>
+
+<br/>
+
 <!-- Platinum Border -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
@@ -406,6 +459,13 @@ Explore → Build → Scale → Innovate
 | **Cloud** | AWS ◆ SageMaker ◆ Lambda | Exploring |
 | **DevOps** | Docker ◆ Kubernetes ◆ CI/CD | Learning |
 
+</div>
+
+<br/>
+
+<!-- Tech Animation -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b8bc5747.gif" width="500" alt="Tech Animation">
 </div>
 
 <br/>
@@ -450,6 +510,13 @@ Explore → Build → Scale → Innovate
 
 <br/>
 
+<!-- Animated Laptop Coding -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-143a1368-2372-4647-8f7e-d4f2c3f0d7e0.gif" width="500" alt="Laptop Coding">
+</div>
+
+<br/>
+
 <!-- Crystal Divider -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -470,6 +537,11 @@ Explore → Build → Scale → Innovate
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=FFBE0B&center=true&vCenter=true&width=1000&lines=Exploring+the+AI+Universe;Building+Tomorrow's+Technology;Open+to+Collaborations" alt="Tagline" />
+
+<br/><br/>
+
+<!-- Connection Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Connection" />
 
 <br/><br/>
 
@@ -518,12 +590,19 @@ Explore → Build → Scale → Innovate
 
 <br/><br/>
 
+<!-- Working Developer GIF -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Working">
+</div>
+
+<br/>
+
 <!-- Premium Luxury Border -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
-<!-- Snake Animation -->
+<!-- Snake Animation - Main Feature -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-AIstacker/sai-AIstacker/output/github-contribution-grid-snake-dark.svg">
@@ -538,6 +617,15 @@ Explore → Build → Scale → Innovate
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 </p>
+
+<br/>
+
+<!-- AI Brain Animation -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e40c4a6726d.gif" width="300" alt="AI Brain">
+</div>
+
+<br/>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=footer&animation=twinkling" width="100%"/>
