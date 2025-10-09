@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Quantum Header with Particle Effects -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=350&text=SAI%20SARTHAK%20SADANGI&fontSize=85&color=0:667eea,20:764ba2,40:f093fb,60:4facfe,80:00f2fe,100:43e97b&fontColor=fff&animation=fadeIn&stroke=ffffff&strokeWidth=2&fontAlignY=38&desc=AI%20ARCHITECT%20%E2%80%A2%20ML%20SCIENTIST%20%E2%80%A2%20DATA%20ENGINEER%20%E2%80%A2%20DEEP%20LEARNING%20SPECIALIST&descSize=28&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=350&text=saiAIstacker&fontSize=85&color=0:667eea,20:764ba2,40:f093fb,60:4facfe,80:00f2fe,100:43e97b&fontColor=fff&animation=fadeIn&stroke=ffffff&strokeWidth=2&fontAlignY=38&desc=AI%20ARCHITECT%20%E2%80%A2%20ML%20SCIENTIST%20%E2%80%A2%20DATA%20ENGINEER%20%E2%80%A2%20DEEP%20LEARNING%20SPECIALIST&descSize=28&descAlignY=58" width="100%"/>
 
 <!-- Neural Network Typing Animation -->
 <a href="https://git.io/typing-svg">
