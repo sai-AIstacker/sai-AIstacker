@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Quantum Header with Particle Effects -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=350&text=saiAIstacker&fontSize=85&color=0:667eea,20:764ba2,40:f093fb,60:4facfe,80:00f2fe,100:43e97b&fontColor=fff&animation=fadeIn&stroke=ffffff&strokeWidth=2&fontAlignY=38&desc=AI%20ARCHITECT%20%E2%80%A2%20ML%20SCIENTIST%20%E2%80%A2%20DATA%20ENGINEER%20%E2%80%A2%20DEEP%20LEARNING%20SPECIALIST&descSize=28&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=350&text=saiAIstacker&fontSize=85&color=0:667eea,20:764ba2,40:f093fb,60:4facfe,80:00f2fe,100:43e97b&fontColor=fff&animation=fadeIn&stroke=ffffff&strokeWidth=2&fontAlignY=38&desc=AI%20ARCHITECT%20%7C%20ML%20SCIENTIST%0AData%20Engineer%20%7C%20Deep%20Learning%20Specialist&descSize=28&descAlignY=58" width="100%"/>
 
 <!-- Neural Network Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=48&duration=2500&pause=600&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=280&lines=%E2%9A%A1+ARCHITECTING+INTELLIGENT+SYSTEMS+%E2%9A%A1;%E2%96%B8+AI+SCIENTIST+%7C+ML+ENGINEER+%7C+DATA+ARCHITECT+%E2%97%82;%E2%96%BA+TRANSFORMING+RAW+DATA+INTO+PREDICTIVE+INTELLIGENCE+%E2%97%84;%E2%97%86+NEURAL+NETWORKS+%E2%80%A2+DISTRIBUTED+SYSTEMS+%E2%80%A2+MLOPS+%E2%97%86;%E2%9C%A6+DEEP+LEARNING+%E2%80%A2+DATA+PIPELINES+%E2%80%A2+MODEL+OPTIMIZATION+%E2%9C%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=48&duration=2500&pause=600&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=280&lines=%E2%9A%A1+I+LOVE+TO+EXPLORE+TECHNOLOGIES+%E2%9A%A1;%E2%96%B8+NEURAL+NETWORKS+%7C+DEEP+LEARNING+%7C+AI+MODELS+%E2%97%82;%E2%96%BA+DATA+PIPELINES+%7C+MLOPS+%7C+DISTRIBUTED+SYSTEMS+%E2%97%84;%E2%97%86+MACHINE+LEARNING+%E2%80%A2+MODEL+OPTIMIZATION+%E2%80%A2+CLOUD+COMPUTING+%E2%97%86;%E2%9C%A6+PYTHON+%E2%80%A2+TENSORFLOW+%E2%80%A2+PYTORCH+%E2%80%A2+DOCKER+%E2%9C%A6" alt="Typing SVG" />
 </a>
 
 <!-- Holographic Identity Badges -->
