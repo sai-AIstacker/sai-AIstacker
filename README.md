@@ -1,12 +1,15 @@
 <div align="center">
 
-<!-- Quantum Header with Particle Effects -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=saiAIstacker&fontSize=90&color=gradient&customColorList=12,18,24&fontColor=fff&animation=twinkling&stroke=00f2fe&strokeWidth=3&fontAlignY=40&section=header" width="100%"/>
 
-<!-- Neural Network Typing Animation -->
+<!-- Quantum Black Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=saiAIstacker&fontSize=90&fontAlignY=38&fontAlign=50&font=Orbitron&fontColor=FFFFFF&color=0:0a0a0a,50:111827,100:1e3a8a&stroke=00f2fe&strokeWidth=2&animation=fadeIn&desc=Innovating%20Artificial%20Intelligence%20%7C%20Deep%20Learning%20%7C%20MLOps&descAlignY=60&descAlign=50&section=header" width="100%"/>
+
+
+<!-- Neural Network Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=48&duration=2500&pause=600&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=280&lines=%E2%9A%A1+I+LOVE+TO+EXPLORE+TECHNOLOGIES+%E2%9A%A1;%E2%96%B8+NEURAL+NETWORKS+%7C+DEEP+LEARNING+%7C+AI+MODELS+%E2%97%82;%E2%96%BA+DATA+PIPELINES+%7C+MLOPS+%7C+DISTRIBUTED+SYSTEMS+%E2%97%84;%E2%97%86+MACHINE+LEARNING+%E2%80%A2+MODEL+OPTIMIZATION+%E2%80%A2+CLOUD+COMPUTING+%E2%97%86;%E2%9C%A6+PYTHON+%E2%80%A2+TENSORFLOW+%E2%80%A2+PYTORCH+%E2%80%A2+DOCKER+%E2%9C%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&duration=2500&pause=600&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=280&lines=%E2%9A%A1+I+LOVE+TO+EXPLORE+TECHNOLOGIES+%E2%9A%A1;%E2%96%B8+NEURAL+NETWORKS+%7C+DEEP+LEARNING+%7C+AI+MODELS+%E2%97%82;%E2%96%BA+DATA+PIPELINES+%7C+MLOPS+%7C+DISTRIBUTED+SYSTEMS+%E2%97%84;%E2%97%86+MACHINE+LEARNING+%E2%80%A2+MODEL+OPTIMIZATION+%E2%80%A2+CLOUD+COMPUTING+%E2%97%86;%E2%9C%A6+PYTHON+%E2%80%A2+TENSORFLOW+%E2%80%A2+PYTORCH+%E2%80%A2+DOCKER+%E2%9C%A6" alt="Typing SVG" />
 </a>
+
 
 <!-- Holographic Identity Badges -->
 <p>
