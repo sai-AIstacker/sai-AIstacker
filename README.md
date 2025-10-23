@@ -13,7 +13,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-AIstacker&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="400">
       </td>
       <td align="center" valign="middle">
-        <img src="https://github.com/user-attachments/assets/970b1fd8-a6cb-4e8a-92a9-7f11f8625db0" alt="Profile" width="350" height="350" style="border-radius:50%;object-fit:cover;">
+        <img src="https://github.com/user-attachments/assets/970b1fd8-a6cb-4e8a-92a9-7f11f8625db0" alt="Profile" width="350" height="350" style="border-radius:50%;object-fit:cover;border:3px solid #7aa2f7;">
       </td>
     </tr>
   </table>
