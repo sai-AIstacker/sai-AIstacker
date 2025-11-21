@@ -1,5 +1,5 @@
 <div align="center">   
-  <img src="https://i.ibb.co/bgZC0kdh/Black-Elegant-and-Modern-Startup-Pitch-Deck-Presentation.png" alt="Currently Building" width="900"> 
+  <img src="https://i.ibb.co/mC374x1m/Black-Elegant-and-Modern-Startup-Pitch-Deck-Presentation-1.png" alt="Currently Building" width="900"> 
 </div>
 
 ---
