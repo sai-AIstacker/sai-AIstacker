@@ -1,5 +1,5 @@
 <div align="center">   
-  <img src="https://github.com/user-attachments/assets/3c81a978-b515-4007-ae69-d109d0058de6" alt="Currently Building" width="900"> 
+  <img src="https://i.ibb.co/bgZC0kdh/Black-Elegant-and-Modern-Startup-Pitch-Deck-Presentation.png" alt="Currently Building" width="900"> 
 </div>
 
 ---
