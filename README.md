@@ -1,41 +1,34 @@
-<div align="center">   
-  <img src="https://i.ibb.co/mC374x1m/Black-Elegant-and-Modern-Startup-Pitch-Deck-Presentation-1.png" alt="Currently Building" width="900"> 
-</div>
+Sai Sarthak Sadangi
 
----
+AI/ML Enthusiast • Backend Developer • Learning Every Day
 
-<div align="center">   
-  <table>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=sai-AIstacker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" width="400">
-        <br><br>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-AIstacker&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="400">
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://i.ibb.co/Lh1TSnT2/Black-White-Simple-Tech-Carousel-Instagram-Post.png" alt="Profile" width="350" height="350" style="border-radius:50%;object-fit:cover;border:3px solid #7aa2f7;">
-      </td>
-    </tr>
-  </table>
-</div>
+I’m currently learning Machine Learning, Deep Learning, and Backend Development.
+I love building AI tools, automation systems, and smart backend architectures.
 
----
+What I Do
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="middle" width="50%">
-        <img src="https://github.com/user-attachments/assets/ab7d19b8-1a02-494e-86f6-3beb00f32018" alt="Coding Image" width="400">
-      </td>
-      <td align="center" valign="middle" width="50%">
-        <h2>🎧 LISTEN WITH ME WHILE BUILDING & CODING</h2>
-        <p>
-          <a href="https://open.spotify.com/playlist/46Xym4qiPileAZWU5ngXil" target="_blank">
-            🎵 <b>Enjoy your Crazy Coding Sessions</b><br/>
-            <i>Click here</i>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+▲ AI/ML learning & experiments
+
+◆ Backend development
+
+✦ Automation + SaaS building
+
+○ Problem-solving & system design basics
+
+Tech I Use
+
+■ Backend frameworks
+
+▣ Databases
+
+▤ Cloud tools
+
+▥ Automation platforms
+
+▧ Frontend frameworks
+
+GitHub Stats
+
+Playlist I’m Listening While Coding
+
+◆ https://open.spotify.com/playlist/46Xym4qiPileAZWU5ngXil
