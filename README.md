@@ -1,6 +1,6 @@
-👾 Sai Sarthak Sadangi ̤̮
+**👾 Sai Sarthak Sadangi ̤̮**
 
-**👨🏻‍💻 AI/ML •  Backend Developer •  Learning Every Day**
+**⌞👨🏻‍💻 AI/ML •  Backend Developer •  Learning Every Day⌝**
 
       I’m currently learning Machine Learning, Deep Learning, and Backend Development.  
       I love building AI tools, automation systems, and smart backend architectures.
