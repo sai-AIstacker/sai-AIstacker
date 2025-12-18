@@ -2,11 +2,11 @@
 
 **⌞👨🏻‍💻 Software Development •  AI/Ml •  product planning & design⌝**
 
-      I’m currently learning Machine Learning, Deep Learning, and Software  Development.  
+      I’m currently learning Fullstack, Machine Learning, and Software  Development.  
       I love building tools, automation systems, and smart backend architectures with Good Product thinking.
 ---
 ## ➠ What I Do 🖥️
-       - ▲ AI/ML learning & experiments  
+       - ▲ AI/ML learning & experiments in projects  
        - ◆ Backend development  
        - ✦ Automation + SaaS building  
        - ○ Problem-solving & system design 
